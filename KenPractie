@@ -1,0 +1,10 @@
+
+#include <stdio.h>
+
+int main()
+{
+  printf("ELC200 practice\n");
+  printf("Practice2");
+  return(0);
+ 
+}
